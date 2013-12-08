@@ -1,0 +1,3 @@
+permalink: none
+exclude: ['lib', 'LICENSE', 'README.md', 'categories.yml']
+pygments: true
